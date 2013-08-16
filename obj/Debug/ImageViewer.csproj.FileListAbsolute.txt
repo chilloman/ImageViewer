@@ -1,0 +1,10 @@
+c:\users\vebjørn\documents\visual studio 2012\Projects\ImageViewer\ImageViewer\bin\Debug\ImageViewer.exe.config
+c:\users\vebjørn\documents\visual studio 2012\Projects\ImageViewer\ImageViewer\bin\Debug\ImageViewer.exe
+c:\users\vebjørn\documents\visual studio 2012\Projects\ImageViewer\ImageViewer\bin\Debug\ImageViewer.pdb
+c:\users\vebjørn\documents\visual studio 2012\Projects\ImageViewer\ImageViewer\obj\Debug\ImageViewer.csprojResolveAssemblyReference.cache
+c:\users\vebjørn\documents\visual studio 2012\Projects\ImageViewer\ImageViewer\obj\Debug\ImageViewer.Form1.resources
+c:\users\vebjørn\documents\visual studio 2012\Projects\ImageViewer\ImageViewer\obj\Debug\ImageViewer.Properties.Resources.resources
+c:\users\vebjørn\documents\visual studio 2012\Projects\ImageViewer\ImageViewer\obj\Debug\ImageViewer.csproj.GenerateResource.Cache
+c:\users\vebjørn\documents\visual studio 2012\Projects\ImageViewer\ImageViewer\obj\Debug\ImageViewer.exe
+c:\users\vebjørn\documents\visual studio 2012\Projects\ImageViewer\ImageViewer\obj\Debug\ImageViewer.pdb
+c:\users\vebjørn\documents\visual studio 2012\Projects\ImageViewer\ImageViewer\obj\Debug\ImageViewer.MainForm.resources
